@@ -5,7 +5,6 @@ An Excel and Power BI prototype built for a self-directed Business Analysis case
 The dashboard shows how a bank could give a business client one consolidated view of its accounts: total balance, balance by account, monthly cash in and cash out, and cash runway. All data is invented sample data for three mock accounts. It is not connected to any real bank.
 
 Full case study: https://drive.google.com/file/d/11KniaGLvXr0WhlZJpbsBy3Gky1cAGNyQ/view?usp=sharing
-case study
 
 
 Files:
